@@ -5,6 +5,72 @@
  
  #本地节点
 
+#更新时间2023-4-12
+
+
+shadowsocks=wz.safetelescope.cc:10020, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=113662:CkQwOd1FPX, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag= 随缘 👁‍🗨关注：ios黑科技-韩国_R_311
+shadowsocks=iepl-zh.safetelescope.cc:11899, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=113662:CkQwOd1FPX, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag= 随缘 👁‍🗨关注：ios黑科技-越南_R_377
+shadowsocks=iepl-hn.cctelescope.xyz:21293, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=113662:CkQwOd1FPX, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag= 随缘 👁‍🗨关注：ios黑科技-菲律宾_R_196
+shadowsocks=iepl-zh.safetelescope.cc:11658, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=113662:CkQwOd1FPX, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag= 随缘 👁‍🗨关注：ios黑科技-美国_R_370
+shadowsocks=iepl-hn.cctelescope.xyz:21632, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=113662:CkQwOd1FPX, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag= 随缘 👁‍🗨关注：ios黑科技-美国_R_335
+shadowsocks=sh163.safetelescope.cc:62306, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=113662:CkQwOd1FPX, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag= 随缘 👁‍🗨关注：ios黑科技-美国_R_21
+shadowsocks=iepl-hn.cctelescope.xyz:21099, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=113662:CkQwOd1FPX, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag= 随缘 👁‍🗨关注：ios黑科技-瑞典_R_362
+shadowsocks=ieplszhk-sz.cctelescope.xyz:50058, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=113662:CkQwOd1FPX, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag= 随缘 👁‍🗨关注：ios黑科技-爱沙尼亚_R_453
+shadowsocks=iepl-zh.safetelescope.cc:11799, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=113662:CkQwOd1FPX, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag= 随缘 👁‍🗨关注：ios黑科技-泰国_R_557
+shadowsocks=ieplszhk-sz.cctelescope.xyz:50402, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=113662:CkQwOd1FPX, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag= 随缘 👁‍🗨关注：ios黑科技-泰国_R_520
+shadowsocks=wz.safetelescope.cc:22262, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=113662:CkQwOd1FPX, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag= 随缘 👁‍🗨关注：ios黑科技-法国_R_559
+shadowsocks=iepl-zh.safetelescope.cc:11853, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=113662:CkQwOd1FPX, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag= 随缘 👁‍🗨关注：ios黑科技-法国_R_372
+shadowsocks=ieplszhk-sz.cctelescope.xyz:50312, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=113662:CkQwOd1FPX, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag= 随缘 👁‍🗨关注：ios黑科技-日本_R_510
+shadowsocks=iepl-hn.cctelescope.xyz:21078, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=113662:CkQwOd1FPX, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag= 随缘 👁‍🗨关注：ios黑科技-日本_R_498
+shadowsocks=wz.safetelescope.cc:46562, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=113662:CkQwOd1FPX, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag= 随缘 👁‍🗨关注：ios黑科技-新加坡_R_522
+shadowsocks=ieplszhk-sz.cctelescope.xyz:50306, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=113662:CkQwOd1FPX, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag= 随缘 👁‍🗨关注：ios黑科技-新加坡_R_441
+shadowsocks=iepl-hn.cctelescope.xyz:21319, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=113662:CkQwOd1FPX, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag= 随缘 👁‍🗨关注：ios黑科技-捷克_R_506
+shadowsocks=sh163.safetelescope.cc:62301, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=113662:CkQwOd1FPX, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag= 随缘 👁‍🗨关注：ios黑科技-德国_R_523
+shadowsocks=ieplszhk-sz.cctelescope.xyz:50354, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=113662:CkQwOd1FPX, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag= 随缘 👁‍🗨关注：ios黑科技-尼日利亚_R_514
+shadowsocks=iepl-hn.cctelescope.xyz:21565, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=113662:CkQwOd1FPX, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag= 随缘 👁‍🗨关注：ios黑科技-土耳其_R_458
+shadowsocks=iepl-zh.safetelescope.cc:11802, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=113662:CkQwOd1FPX, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag= 随缘 👁‍🗨关注：ios黑科技-台湾_R_318
+shadowsocks=ieplszhk-sz.cctelescope.xyz:50802, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=113662:CkQwOd1FPX, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag= 随缘 👁‍🗨关注：ios黑科技-台湾_R_314
+shadowsocks=ieplszhk-sz.cctelescope.xyz:50578, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=113662:CkQwOd1FPX, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag= 随缘 👁‍🗨关注：ios黑科技-印度尼西亚_R_521
+shadowsocks=iepl-hn.cctelescope.xyz:21164, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=113662:CkQwOd1FPX, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag= 随缘 👁‍🗨关注：ios黑科技-加拿大_R_365
+shadowsocks=wz.safetelescope.cc:62302, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=113662:CkQwOd1FPX, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag= 随缘 👁‍🗨关注：ios黑科技-加拿大_R_339
+shadowsocks=ieplszhk-sz.cctelescope.xyz:50326, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=113662:CkQwOd1FPX, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag= 随缘 👁‍🗨关注：ios黑科技-以色列_R_456
+
+
+
+#①
+
+
+shadowsocks=180.101.193.226:10068, method=aes-256-cfb, password=RsDk3peCSuo76B68, fast-open=false, udp-relay=false, tag=随意① 👁‍🗨关注：ios黑科技
+vmess=cloud.cluster.download.cloudsys.buzz:80, method=aes-128-gcm, password=522e8c21-156c-4125-b821-755956840e64, obfs=ws, obfs-host=cloud.cluster.download.cloudsys.buzz, obfs-uri=/ac9c9cf8-d1c3-4eb7-aa66-5052edaf9a94.ts, fast-open=false, udp-relay=false, aead=true, tag=随意② 👁‍🗨关注：ios黑科技
+vmess=n1680936778.sxhucjg.cn:443, method=aes-128-gcm, password=f0532e19-dc6a-4cf0-9194-320d8bca458e, obfs=wss, obfs-host=n1680936778.sxhucjg.cn, obfs-uri=/, tls-verification=false, fast-open=false, udp-relay=false, aead=true, tag=随意③ 👁‍🗨关注：ios黑科技
+shadowsocks=54.250.130.55:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=随意④ 👁‍🗨关注：ios黑科技
+shadowsocks=43.206.194.235:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=随意⑤ 👁‍🗨关注：ios黑科技
+shadowsocks=43.207.120.229:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=随意⑥ 👁‍🗨关注：ios黑科技
+shadowsocks=131.186.21.62:4433, method=aes-256-gcm, password=yy595721, fast-open=false, udp-relay=false, tag=随意⑦ 👁‍🗨关注：ios黑科技
+shadowsocks=103.163.218.2:989, method=aes-256-cfb, password=f8f7aCzcPKbsF8p3, fast-open=false, udp-relay=false, tag=随意⑧ 👁‍🗨关注：ios黑科技
+vmess=n1680936778.sxhucjg.cn:443, method=aes-128-gcm, password=f0532e19-dc6a-4cf0-9194-320d8bca458e, obfs=wss, obfs-uri=/, tls-verification=false, fast-open=false, udp-relay=false, aead=false, tag=随意⑨ 👁‍🗨关注：ios黑科技
+vmess=n1680937004.sxhucjg.cn:443, method=aes-128-gcm, password=df2cfa39-3dd3-411a-9872-8e508f5e2483, obfs=wss, obfs-uri=/, tls-verification=false, fast-open=false, udp-relay=false, aead=false, tag=随意⑩ 👁‍🗨关注：ios黑科技
+vmess=n1680936771.sxhucjg.cn:443, method=aes-128-gcm, password=a90c180d-2e60-44e0-a5a7-4150f3108a54, obfs=wss, obfs-uri=/, tls-verification=false, fast-open=false, udp-relay=false, aead=false, tag=随意⑪ 👁‍🗨关注：ios黑科技
+vmess=192.74.232.246:51802, method=aes-128-gcm, password=418048af-a293-4b99-9b0c-98ca3580dd24, fast-open=false, udp-relay=false, aead=false, tag=随意⑫ 👁‍🗨关注：ios黑科技
+
+
+
+
+#②
+shadowsocks=180.101.193.226:10068, method=aes-256-cfb, password=RsDk3peCSuo76B68, fast-open=false, udp-relay=false, tag=随缘① 👁‍🗨关注：ios黑科技
+shadowsocks=180.101.193.226:10068, method=aes-256-cfb, password=RsDk3peCSuo76B68, fast-open=false, udp-relay=false, tag=随缘② 👁‍🗨关注：ios黑科技
+trojan=185.44.76.188:443, password=8697fe6b-1lWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=随缘③ 👁‍🗨关注：ios黑科技
+trojan=45.147.200.44:443, password=265f092f-418b-30c9-a479-4800fd44dd19mielink, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=随缘④ 👁‍🗨关注：ios黑科技
+
+
+#稳定
+
+shadowsocks=173.82.186.25:50006,method=none, password=IOSwgAYTREask(&1UHYTiq'&%12igsasamafSSR, ssr-protocol=auth_chain_a, obfs=plain, fast-open=false, udp-relay=false, tag=稳定① 关注公众号：ios黑科技
+shadowsocks=154.3.5.78:40086,method=none, password=FrytrrocIOS*12ola, ssr-protocol=auth_chain_a, obfs=plain, fast-open=false, udp-relay=false, tag=稳定② 关注公众号：ios黑科技
+shadowsocks=154.9.204.57:40006,method=none, password=nhqbdsndwqjwqkor, ssr-protocol=auth_chain_a, obfs=plain, fast-open=false, udp-relay=false, tag=稳定③ 关注公众号：ios黑科技
+shadowsocks=154.9.204.123:40004,method=none, password=ncxbchdada, ssr-protocol=auth_chain_a, obfs=plain, fast-open=false, udp-relay=false, tag=稳定④ 关注公众号：ios黑科技
+shadowsocks=154.17.30.20:40000,method=none, password=asdbzhgyakmfasfdewdsnwqejkfw, ssr-protocol=auth_chain_a, obfs=plain, fast-open=false, udp-relay=false, tag=稳定⑤ 关注公众号：ios黑科技
+shadowsocks=154.17.30.20:40000,method=none, password=asdbzhgyakmfasfdewdsnwqejkfw, ssr-protocol=auth_chain_a, obfs=plain, fast-open=false, udp-relay=false, tag=稳定⑥ 关注公众号：ios黑科技
 
 
 #①
