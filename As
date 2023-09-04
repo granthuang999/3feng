@@ -1,4 +1,3 @@
-
 #随缘
 vmess=137.175.86.188:42151, method=aes-128-gcm, password=418048af-a293-4b99-9b0c-98ca3580dd24, fast-open=false, udp-relay=false, aead=false, tag=随缘1 👁‍🗨关注：ios黑科技
 vmess=dx1.992688.xyz:8880, method=aes-128-gcm, password=67a341a7-5ae7-4d92-edad-9e8db87ce165, obfs=ws, obfs-host=vcus1.vpn66.eu.org, obfs-uri=/, fast-open=false, udp-relay=false, aead=true, tag=随缘2 👁‍🗨关注：ios黑科技
@@ -79,10 +78,6 @@ shadowsocks=185.90.61.153:989, method=aes-256-cfb, password=f8f7aCzcPKbsF8p3, fa
 shadowsocks=41.203.4.34:989, method=aes-256-cfb, password=f8f7aCzcPKbsF8p3, fast-open=false, udp-relay=false, tag=随缘40 👁‍🗨关注：ios黑科技
 shadowsocks=185.47.255.219:989, method=aes-256-cfb, password=f8f7aCzcPKbsF8p3, fast-open=false, udp-relay=false, tag=随缘41 👁‍🗨关注：ios黑科技
 trojan=45.147.200.44:443, password=265f092f-418b-30c9-a479-4800fd44dd19mielink, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=随缘42 👁‍🗨关注：ios黑科技
-
-
-
-#稳定
 shadowsocks=154.3.5.78:40086,method=none, password=FrytrrocIOS*12ola, ssr-protocol=auth_chain_a, obfs=plain, fast-open=false, udp-relay=false, tag=稳定① 关注公众号：ios黑科技
 shadowsocks=154.9.204.54:60000,method=none, password=52*wentermethod, ssr-protocol=auth_chain_a, obfs=plain, fast-open=false, udp-relay=false, tag=稳定② 关注公众号：ios黑科技
 shadowsocks=154.9.204.109:50089,method=none, password=hdusijandsabwq, ssr-protocol=auth_chain_a, obfs=plain, fast-open=false, udp-relay=false, tag=稳定③ 关注公众号：ios黑科技
