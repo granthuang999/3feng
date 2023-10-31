@@ -1,29 +1,49 @@
+#更新时间2023-10-31
+
 #随缘
 shadowsocks=41.203.4.34:989, method=aes-256-cfb, password=f8f7aCzcPKbsF8p3, fast-open=false, udp-relay=false, tag=随缘1 👁‍🗨关注：ios黑科技
 shadowsocks=185.47.255.219:989, method=aes-256-cfb, password=f8f7aCzcPKbsF8p3, fast-open=false, udp-relay=false, tag=随缘2 👁‍🗨关注：ios黑科技
-trojan=45.147.200.44:443, password=265f092f-418b-30c9-a479-4800fd44dd19mielink, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=随缘3 👁‍🗨关注：ios黑科技
-trojan=103.15.217.182:33058, password=QHhbhwe6lj, over-tls=true, tls-verification=false, tls-host=103.15.217.182, fast-open=false, udp-relay=false, tag=随缘4 👁‍🗨关注：ios黑科技
-shadowsocks=165.231.120.102:989, method=aes-256-cfb, password=f8f7aCzcPKbsF8p3, fast-open=false, udp-relay=true, tag=随缘5 👁‍🗨关注：ios黑科技
-vmess=a.baozinet.top:25001, method=aes-128-gcm, password=50b479e6-888d-42bb-b0dd-0ea9935f7a7e, fast-open=false, udp-relay=false, aead=true, tag=随缘6 👁‍🗨关注：ios黑科技
-vmess=156.225.67.104:30000, method=aes-128-gcm, password=29a5d48e-24f1-48fd-a5e1-9a46cb31032f, obfs=wss, obfs-host=www.41758112.xyz, obfs-uri=/path/1696944806961, tls-verification=false, fast-open=false, udp-relay=false, aead=false, tag=随缘7 👁‍🗨关注：ios黑科技
-shadowsocks=51.158.195.96:443, method=aes-256-cfb, password=asdKkaskJKfnsa, fast-open=false, udp-relay=false, tag=随缘8 👁‍🗨关注：ios黑科技
-vmess=154.85.1.244:30000, method=aes-128-gcm, password=1d474f0b-e78d-4af9-bc4a-a467467bc7a7, obfs=wss, obfs-host=www.28115361.xyz, obfs-uri=/path/1696944806961, tls-verification=false, fast-open=false, udp-relay=false, aead=false, tag=随缘9 👁‍🗨关注：ios黑科技
-vmess=sw-89.116.38.184.nip.io:3456, method=aes-128-gcm, password=32e49539-f569-403d-b4b6-a8978c040d5d, obfs=http, fast-open=false, udp-relay=false, aead=true, tag=随缘10 👁‍🗨关注：ios黑科技
-vmess=5.78.70.9:3389, method=aes-128-gcm, password=9c050a86-d612-48f1-ec32-e573df08a1b7, obfs=http, fast-open=false, udp-relay=false, aead=true, tag=随缘11 👁‍🗨关注：ios黑科技
-shadowsocks=jscm01.celerlink.one:41039, method=chacha20-ietf-poly1305, password=3525588ee14ea924, fast-open=false, udp-relay=false, tag=随缘12 👁‍🗨关注：ios黑科技
-vmess=5.78.70.9:3389, method=aes-128-gcm, password=9c050a86-d612-48f1-ec32-e573df08a1b7, obfs=http, fast-open=false, udp-relay=false, aead=true, tag=随缘13 👁‍🗨关注：ios黑科技
-vmess=45.199.138.186:30000, method=aes-128-gcm, password=4ec0ae62-de09-4029-904a-0313d4628ecf, obfs=wss, obfs-host=www.19229362.xyz, obfs-uri=/path/1696682720138, tls-verification=false, fast-open=false, udp-relay=false, aead=false, tag=随缘14 👁‍🗨关注：ios黑科技
-vmess=156.225.67.104:30000, method=aes-128-gcm, password=29a5d48e-24f1-48fd-a5e1-9a46cb31032f, obfs=wss, obfs-uri=/path/1696944806961, tls-verification=false, fast-open=false, udp-relay=false, aead=false, tag=随缘15 👁‍🗨关注：ios黑科技
-vmess=124.220.57.75:80, method=aes-128-gcm, password=1b3dd95b-f6dc-4f20-97aa-3b365358419c, obfs=ws, obfs-uri=/, fast-open=false, udp-relay=false, aead=true, tag=随缘16 👁‍🗨关注：ios黑科技
-vmess=162.159.137.9:2052, method=aes-128-gcm, password=fe5edf04-c2af-4ac5-84ee-16d43024decb, obfs=ws, obfs-host=us.wx.alue.link, obfs-uri=/, fast-open=false, udp-relay=false, aead=true, tag=随缘17 👁‍🗨关注：ios黑科技
-vmess=89.116.38.184:3456, method=aes-128-gcm, password=32e49539-f569-403d-b4b6-a8978c040d5d, obfs=http, obfs-host=internet.life.com.by, obfs-uri=/, fast-open=false, udp-relay=false, aead=true, tag=随缘18 👁‍🗨关注：ios黑科技
-vmess=xn3.shabijichang.com:80, method=aes-128-gcm, password=c458695d-6908-45c3-9512-e0c46418454c, obfs=ws, obfs-host=xn3.shabijichang.com, obfs-uri=/, fast-open=false, udp-relay=false, aead=true, tag=随缘19 👁‍🗨关注：ios黑科技
-vmess=yd1.992688.xyz:2052, method=aes-128-gcm, password=b63efdd5-bdb8-4eb4-f918-9846cd7321e6, obfs=ws, obfs-host=vcus1.vpn66.eu.org, obfs-uri=/, fast-open=false, udp-relay=false, aead=true, tag=随缘20 👁‍🗨关注：ios黑科技
+trojan=zz.chaosu999.com:40350, password=ff0675b0-c665-3d69-800b-f7fc29e1ead8, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=随缘3 👁‍🗨关注：ios黑科技
+shadowsocks=a.karyl.cc:32013, method=chacha20-ietf-poly1305, password=91256cea-c41c-4b66-83a5-d348c63a7b03, fast-open=false, udp-relay=false, tag=随缘4 👁‍🗨关注：ios黑科技
+trojan=183.213.200.208:28157, password=M83a100a, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=随缘5 👁‍🗨关注：ios黑科技
+shadowsocks=yd-06.paofunlink.com:5953, method=chacha20-ietf, password=bxsnucrgk6hfish, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=229225:zZ4fCm, fast-open=false, udp-relay=false, tag=随缘6 👁‍🗨关注：ios黑科技
+shadowsocks=yd-07.paofunlink.com:5957, method=chacha20-ietf, password=bxsnucrgk6hfish, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=229225:zZ4fCm, fast-open=false, udp-relay=false, tag=随缘7 👁‍🗨关注：ios黑科技
+shadowsocks=yd-04.paofunlink.com:5956, method=chacha20-ietf, password=bxsnucrgk6hfish, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=229225:zZ4fCm, fast-open=false, udp-relay=false, tag=随缘8 👁‍🗨关注：ios黑科技
+shadowsocks=141.95.64.70:443, method=aes-256-cfb, password=asdKkaskJKfnsa, fast-open=false, udp-relay=true, tag=随缘9 👁‍🗨关注：ios黑科技
+shadowsocks=it.fanqiecloud.top:22802, method=chacha20-ietf-poly1305, password=0b5edd68-b084-4990-a5dc-de3898bfbe4e, fast-open=false, udp-relay=false, tag=随缘10 👁‍🗨关注：ios黑科技
+vmess=154.85.1.245:30000, method=aes-128-gcm, password=1d474f0b-e78d-4af9-bc4a-a467467bc7a7, obfs=wss, obfs-host=www.28115361.xyz, obfs-uri=/path/1698498185718, tls-verification=false, fast-open=false, udp-relay=false, aead=false, tag=随缘11 👁‍🗨关注：ios黑科技
+vmess=45.199.138.191:30000, method=aes-128-gcm, password=418048af-a293-4b99-9b0c-98ca3580dd24, obfs=wss, obfs-host=www.42077230.xyz, obfs-uri=/path/1696251522438, tls-verification=false, fast-open=false, udp-relay=false, aead=false, tag=随缘12 👁‍🗨关注：ios黑科技
+vmess=154.12.39.216:701, method=aes-128-gcm, password=041170e1-95fd-40b1-9bd0-1d28826f97e7, obfs=http, fast-open=false, udp-relay=false, aead=true, tag=随缘13 👁‍🗨关注：ios黑科技
+vmess=154.12.39.113:23566, method=aes-128-gcm, password=041170e1-95fd-40b1-9bd0-1d28826f97e7, obfs=http, fast-open=false, udp-relay=false, aead=true, tag=随缘14 👁‍🗨关注：ios黑科技
+vmess=154.12.39.152:23566, method=aes-128-gcm, password=041170e1-95fd-40b1-9bd0-1d28826f97e7, obfs=http, fast-open=false, udp-relay=false, aead=true, tag=随缘15 👁‍🗨关注：ios黑科技
+vmess=154.12.39.95:23566, method=aes-128-gcm, password=041170e1-95fd-40b1-9bd0-1d28826f97e7, obfs=http, fast-open=false, udp-relay=false, aead=true, tag=随缘16 👁‍🗨关注：ios黑科技
+vmess=192.74.228.162:443, method=aes-128-gcm, password=051b844f-efe3-4847-92aa-66b5de0b6d4e, obfs=wss, obfs-uri=/path/291625261335, tls-verification=false, fast-open=false, udp-relay=false, aead=false, tag=随缘17 👁‍🗨关注：ios黑科技
+trojan=94.131.13.159:16128, password=zwbdPys6Va, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=随缘18 👁‍🗨关注：ios黑科技
+shadowsocks=a.karyl.cc:32013, method=chacha20-ietf-poly1305, password=91256cea-c41c-4b66-83a5-d348c63a7b03, fast-open=false, udp-relay=false, tag=随缘19 👁‍🗨关注：ios黑科技
+shadowsocks=bjcu.xzyunjiasu.icu:33952, method=aes-256-gcm, password=5c8b210a-2f00-4292-964b-05281c7ad5d1, fast-open=false, udp-relay=false, tag=随缘20 👁‍🗨关注：ios黑科技
+vmess=192.74.228.182:443, method=aes-128-gcm, password=051b844f-efe3-4847-92aa-66b5de0b6d4e, obfs=wss, obfs-uri=/path/173300203323, tls-verification=false, fast-open=false, udp-relay=false, aead=false, tag=随缘21 👁‍🗨关注：ios黑科技
+shadowsocks=yd-04.paofunlink.com:5956, method=chacha20-ietf, password=bxsnucrgk6hfish, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=229225:zZ4fCm, fast-open=false, udp-relay=false, tag=随缘22 👁‍🗨关注：ios黑科技
+shadowsocks=yd-07.paofunlink.com:5958, method=chacha20-ietf, password=bxsnucrgk6hfish, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=7521:12HsOu, fast-open=false, udp-relay=false, tag=随缘23 👁‍🗨关注：ios黑科技
+shadowsocks=yd-07.paofunlink.com:5957, method=chacha20-ietf, password=bxsnucrgk6hfish, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=229225:zZ4fCm, fast-open=false, udp-relay=false, tag=随缘24 👁‍🗨关注：ios黑科技
+shadowsocks=yd-06.paofunlink.com:5953, method=chacha20-ietf, password=bxsnucrgk6hfish, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=229225:zZ4fCm, fast-open=false, udp-relay=false, tag=随缘25 👁‍🗨关注：ios黑科技
+vmess=www.96110.store:443, method=aes-128-gcm, password=cd0a32e8-a3ee-4f2d-cb00-1ddf418e7e1c, obfs=wss, obfs-host=ge.doinb.tk, obfs-uri=/SB, tls-verification=false, fast-open=false, udp-relay=false, aead=true, tag=随缘26 👁‍🗨关注：ios黑科技
+vmess=cm.doinbtimes.cf:80, method=aes-128-gcm, password=59890038-18a7-4b81-b043-a1fe474bc656, obfs=ws, obfs-host=fr1.doinb.tk, obfs-uri=/, fast-open=false, udp-relay=false, aead=true, tag=随缘27 👁‍🗨关注：ios黑科技
+vmess=downloading.cmhkg.eu.org:443, method=aes-128-gcm, password=cd0a32e8-a3ee-4f2d-cb00-1ddf418e7e1c, obfs=wss, obfs-host=ge.doinb.tk, obfs-uri=/SB, tls-verification=false, fast-open=false, udp-relay=false, aead=true, tag=随缘28 👁‍🗨关注：ios黑科技
+vmess=gcore.lisir.tk:443, method=aes-128-gcm, password=cc08c09f-642b-4e9a-9e6a-4d335eaf2ac1, obfs=wss, obfs-host=gcore06.ijg.cc, obfs-uri=/cc08c09f?ed=2048, tls-verification=false, fast-open=false, udp-relay=false, aead=true, tag=随缘29 👁‍🗨关注：ios黑科技
+vmess=cf.lisir.tk:443, method=aes-128-gcm, password=6e85b047-b69f-40f8-f7aa-b04206ac996f, obfs=wss, obfs-host=07.ijg.cc, obfs-uri=/6e85b047?ed=2048, tls-verification=false, fast-open=false, udp-relay=false, aead=true, tag=随缘30 👁‍🗨关注：ios黑科技
+vmess=cf.xiaolong.world:443, method=aes-128-gcm, password=0f73f90f-6b6a-4bfc-aa7b-3b6321ebc63d, obfs=wss, obfs-host=www.chenlan.top, obfs-uri=/35d5ef49ce?ed=2048, tls-verification=false, fast-open=false, udp-relay=false, aead=true, tag=随缘31 👁‍🗨关注：ios黑科技
+vmess=cfyes.2021214.xyz:8880, method=aes-128-gcm, password=81abd99d-4a84-3b21-9c51-59e29d0e5e03, obfs=ws, obfs-host=cdn-dns.202014.xyz, obfs-uri=/v2ray, fast-open=false, udp-relay=false, aead=false, tag=随缘32 👁‍🗨关注：ios黑科技
+vmess=154.85.1.245:30000, method=aes-128-gcm, password=1d474f0b-e78d-4af9-bc4a-a467467bc7a7, obfs=wss, obfs-host=www.28115361.xyz, obfs-uri=/path/1698498185718, tls-verification=false, fast-open=false, udp-relay=false, aead=false, tag=随缘33 👁‍🗨关注：ios黑科技
+vmess=95.217.219.73:3389, method=aes-128-gcm, password=9c050a86-d612-48f1-ec32-e573df08a1b7, obfs=http, obfs-host=internet.life.com.by, obfs-uri=/, fast-open=false, udp-relay=false, aead=true, tag=随缘34 👁‍🗨关注：ios黑科技
+vmess=37.143.129.140:42769, method=aes-128-gcm, password=cdf14795-8fe1-41a1-aafb-9bc2a90fcefe, obfs=http, obfs-host=speedtest.net, obfs-uri=/, fast-open=false, udp-relay=false, aead=true, tag=随缘35 👁‍🗨关注：ios黑科技
+trojan=gsawssg1.aiopen.cfd:443, password=6504a551-673d-44d6-85a9-b05f67fdf971, over-tls=true, tls-verification=false, tls-host=18-140-66-207.nhost.00cdn.com, fast-open=false, udp-relay=false, tag=随缘36 👁‍🗨关注：ios黑科技
+trojan=5.104.108.109:443, password=6504a551-673d-44d6-85a9-b05f67fdf971, over-tls=true, tls-verification=false, tls-host=20-24-33-134.nhost.00cdn.com, fast-open=false, udp-relay=false, tag=随缘37 👁‍🗨关注：ios黑科技
+trojan=bphk3.mybestjj.com:49487, password=17bd8ea9-f1f4-4a9b-a318-99b62bd956ea, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=随缘38 👁‍🗨关注：ios黑科技
 
 
 
 
 #稳定
-
-shadowsocks=154.3.4.133:40007,method=none, password=xbchdadadwqewqeqw, ssr-protocol=auth_chain_a, obfs=plain, fast-open=false, udp-relay=false, tag=稳定① 关注公众号：ios黑科技
-shadowsocks=154.9.204.22:60001,method=none, password=idsbaebbqidnabeqn, ssr-protocol=auth_chain_a, obfs=plain, fast-open=false, udp-relay=false, tag=稳定② 关注公众号：ios黑科技
+shadowsocks=154.9.204.149:50009,method=none, password=wqasbdwqngab521, ssr-protocol=auth_chain_a, obfs=plain, fast-open=false, udp-relay=false, tag=稳定① 关注公众号：ios黑科技
+shadowsocks=154.3.5.78:40086,method=none, password=FrytrrocIOS*12ola, ssr-protocol=auth_chain_a, obfs=plain, fast-open=false, udp-relay=false, tag=稳定② 关注公众号：ios黑科技
+shadowsocks=154.9.204.22:60001,method=none, password=idsbaebbqidnabeqn, ssr-protocol=auth_chain_a, obfs=plain, fast-open=false, udp-relay=false, tag=稳定③ 关注公众号：ios黑科技
